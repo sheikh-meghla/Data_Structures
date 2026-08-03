@@ -1,0 +1,1 @@
+{"name":"Local: Sqrt-complexity-O(sqrt(N))","url":"c:\\Users\\sheik\\meghla\\Data_Structures\\Sqrt-complexity-O(sqrt(N)).cpp","tests":[{"id":1785763521127,"input":"100","output":"1 100 2 50 4 25 5 20 10 10 "}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\sheik\\meghla\\Data_Structures\\Sqrt-complexity-O(sqrt(N)).cpp","group":"local","local":true}
