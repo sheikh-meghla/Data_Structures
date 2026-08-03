@@ -1,0 +1,6 @@
+1. Constant Complexity O(1)
+2. Logarithmic Complexity O(logN)
+3. Square root Complexity O(sqrt(N))
+4. Linear Complexity O(n)
+5. Linearithmic Complexity O(NlogN)
+6. Quadratic Complexity O(N*N)
