@@ -4,6 +4,11 @@ using namespace std;
 
 int main() {
 
-    cout <<"Hello Meghla\n";
+    int n;
+    cin >>n;
+    int sum = 0;
+
+    int ans = (n*(n+1))/2;
+    cout << ans;
     return 0;
 }
