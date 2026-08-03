@@ -16,6 +16,17 @@ int main() {
     {
         cout << i << " ";
     }
+    cout << endl;
+    for (int i = n; i >= 1; i--)
+    {
+        cout << i <<" ";
+    }
+    cout << endl;
+    for (int i = n; i >= 1; i-=2)
+    {
+        cout << i <<" ";
+    }
+    
     
 
 
