@@ -14,8 +14,9 @@ int main() {
     int counter = 0;
     int target_v;
     for (int i = 0; i < n; i++)
-    {
-        if (find(v.begin(), v.end(), v[i] + 1) != v.end()) {
+    {   
+        target_v = v[i]+1;
+        if (find(v.begin(), v.end(), target_v) != v.end()) {
             counter++;
         }
     }
