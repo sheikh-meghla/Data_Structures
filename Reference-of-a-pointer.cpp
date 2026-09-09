@@ -13,5 +13,6 @@ int main() {
     fun(p);
     cout << "In Main:"<< *p<<endl;
     
+    
     return 0;
 }
